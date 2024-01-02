@@ -10,11 +10,11 @@ function All() {
       <a href="#"><img className="card-img-top" src="https://static.javatpoint.com/blog/images/how-to-be-a-full-stack-developer.png" alt=""/></a>
       <div className="card-body">
         <h4 className="card-title">
-          <a href="#">Project One</a>
+          <a href="#">What is CAM (Computer-Aided Manufacturing)?
+
+</a>
         </h4>
-        <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam
-          aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt,
-          dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+        <p className="card-text">CAM (Computer-Aided Manufacturing) is a computer software and machinery to automate and optimize the manufacturing</p>
       </div>
     </div>
   </div>
@@ -23,10 +23,9 @@ function All() {
       <a href="#"><img className="card-img-top" src="https://imageio.forbes.com/specials-images/imageserve/652638c214638780e322c876/The-10-Biggest-Cyber-Security-Trends-In-2024-Everyone-Must-Be-Ready-For-Now/960x0.jpg?format=jpg&width=960" alt=""/></a>
       <div className="card-body">
         <h4 className="card-title">
-          <a href="#">Project Two</a>
+          <a href="#">Have you ever considered how apps and websites are so easy and fun to use?</a>
         </h4>
-        <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod
-          odio, gravida pellentesque urna varius vitae.</p>
+        <p className="card-text">Why Should You Become a UI/UX Designer: Top 10 Reasons</p>
       </div>
     </div>
   </div>
@@ -35,11 +34,11 @@ function All() {
       <a href="#"><img className="card-img-top" src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg" alt=""/></a>
       <div className="card-body">
         <h4 className="card-title">
-          <a href="#">Project Three</a>
+          <a href="#">Have you ever considered how apps and websites are so easy and fun to use?</a>
         </h4>
-        <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error
-          quod sed cumque, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure
-          perspiciatis mollitia recusandae vero vel quam!</p>
+        <p className="card-text">How to Install Adobe XD on Windows? A Step-by-Step Guide [2024]
+
+Adobe XD was at the forefront of UI/UX designing from the beginning. Though it has</p>
       </div>
     </div>
   </div>
@@ -48,10 +47,11 @@ function All() {
       <a href="#"><img className="card-img-top" src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg" alt=""/></a>
       <div className="card-body">
         <h4 className="card-title">
-          <a href="#">Project Four</a>
+          <a href="#">full Stack</a>
         </h4>
-        <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod
-          odio, gravida pellentesque urna varius vitae.</p>
+        <p className="card-text">How to Get a UI/UX Job With No Experience? [2024]
+
+Are you eager to start a career in UI/UX design but worried about your lack</p>
       </div>
     </div>
   </div>
@@ -60,10 +60,11 @@ function All() {
       <a href="#"><img className="card-img-top" src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/roadmap-to-become-a-full-stack-developer_Image_blogs.png" alt=""/></a>
       <div className="card-body">
         <h4 className="card-title">
-          <a href="#">Project Five</a>
+          <a href="#">cyber security</a>
         </h4>
-        <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod
-          odio, gravida pellentesque urna varius vitae.</p>
+        <p className="card-text">How to Get a UI/UX Job With No Experience? [2024]
+
+Are you eager to start a career in UI/UX design but worried about your lack</p>
       </div>
     </div>
   </div>
@@ -72,11 +73,11 @@ function All() {
       <a href="#"><img className="card-img-top" src="https://technogeekscs.com/wp-content/uploads/2023/02/What-is-Data-Science-Course.webp" alt=""/></a>
       <div className="card-body">
         <h4 className="card-title">
-          <a href="#">Project Six</a>
+          <a href="#">Datascience</a>
         </h4>
-        <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum nostrum
-          suscipit ducimus nihil provident, perferendis rem illo, voluptate atque, sit eius in voluptates,
-          nemo repellat fugiat excepturi! Nemo, esse.</p>
+        <p className="card-text">How to Get a UI/UX Job With No Experience? [2024]
+
+Are you eager to start a career in UI/UX design but worried about your lack</p>
       </div>
     </div>
   </div>

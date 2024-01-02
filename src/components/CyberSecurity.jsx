@@ -7,26 +7,23 @@ function CyberSecurity() {
 <div className="row">
   <div className="col-lg-4 col-sm-6 mb-4">
     <div className="card h-100">
-      <a href="#"><img className="card-img-top" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcyber-security&psig=AOvVaw1T3RVR75SqxDnEsCJOJKFm&ust=1704274814361000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCOj1r8m0voMDFQAAAAAdAAAAABAE" alt=""/></a>
+      <a href="#"><img className="card-img-top" src="https://media.istockphoto.com/id/1276936276/photo/creative-background-online-casino-in-a-mans-hand-a-smartphone-with-playing-cards-roulette-and.jpg?s=1024x1024&w=is&k=20&c=Hd5hqc5Ey6IqZmPKvmXjfclw9E5OR5x_-AXjEvGDvWM=" alt=""/></a>
       <div className="card-body">
         <h4 className="card-title">
-          <a href="#">Project One</a>
+          <a href="#">What is cybersecurity all about?</a>
         </h4>
-        <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam
-          aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt,
-          dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+        <p className="card-text">A successful cybersecurity approach has multiple layers of protection spread across the computers, networks, programs, or data that one intends to keep safe. In an organization, the people, processes, and technology must all complement one another to create an effective defense from cyber attacks. A unified threat management system</p>
       </div>
     </div>
   </div>
   <div className="col-lg-4 col-sm-6 mb-4">
     <div className="card h-100">
-      <a href="#"><img className="card-img-top" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcyber&psig=AOvVaw2fqgVjZYfzILJqLcsS9LIo&ust=1703601228334000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKCayKPnqoMDFQAAAAAdAAAAABAY" alt=""/></a>
+      <a href="#"><img className="card-img-top" src="https://media.istockphoto.com/id/1391717949/photo/a-man-use-multiple-credit-cards-for-financial-transactions-and-use-laptop-for-payment.jpg?s=1024x1024&w=is&k=20&c=jnY6v4DGQ-mboI4ZzcB--rHJ6PF7kJLttMQAVCmNf38=" alt=""/></a>
       <div className="card-body">
         <h4 className="card-title">
-          <a href="#">Project Two</a>
+          <a href="#">cyber </a>
         </h4>
-        <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod
-          odio, gravida pellentesque urna varius vitae.</p>
+        <p className="card-text">A successful cybersecurity approach has multiple layers of protection spread across the computers, networks, programs, or data that one intends to keep safe. In an organization, the people, processes, and technology must all complement one another to create an effective defense from cyber attacks. A unified threat management system</p>
       </div>
     </div>
   </div>
@@ -35,11 +32,9 @@ function CyberSecurity() {
       <a href="#"><img className="card-img-top" src="https://t4.ftcdn.net/jpg/01/92/80/09/360_F_192800948_wSBXCiGkzfuIdwdTxvj0XjVfvYomC6sy.jpg" alt=""/></a>
       <div className="card-body">
         <h4 className="card-title">
-          <a href="#">Project Three</a>
+          <a href="#">cybersecurity</a>
         </h4>
-        <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error
-          quod sed cumque, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure
-          perspiciatis mollitia recusandae vero vel quam!</p>
+        <p className="card-text">Users must understand and comply with basic data security principles like choosing strong passwords, being wary of attachments in email, and backing up data. Learn more about basic cybersecurity principles with these Top 10 Cyber Tips.</p>
       </div>
     </div>
   </div>
@@ -48,7 +43,7 @@ function CyberSecurity() {
       <a href="#"><img className="card-img-top" src="https://media.istockphoto.com/id/1345658709/photo/microchip-processing-data-through-computer-motherboard-circuit.jpg?s=612x612&w=0&k=20&c=WmG4rFMo_Bn9BumP0d0l7sOUnjpAdZ5p2HByC_7S2ms=" alt=""/></a>
       <div className="card-body">
         <h4 className="card-title">
-          <a href="#">Project Four</a>
+          <a href="#">Users must understand and comply with basic data security principles like choosing strong passwords, being wary of attachments in email, and backing up data. Learn more about basic cybersecurity principles with these Top 10 Cyber Tips.</a>
         </h4>
         <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod
           odio, gravida pellentesque urna varius vitae.</p>
@@ -60,10 +55,10 @@ function CyberSecurity() {
       <a href="#"><img className="card-img-top" src="https://2456764.fs1.hubspotusercontent-na1.net/hubfs/2456764/cyberattack_1200x627.jpg" alt=""/></a>
       <div className="card-body">
         <h4 className="card-title">
-          <a href="#">Project Five</a>
+          <a href="#">Types of cybersecurity threats</a>
         </h4>
-        <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod
-          odio, gravida pellentesque urna varius vitae.</p>
+        <p className="card-text">
+Phishing is the practice of sending fraudulent emails that resemble emails from reputable sources. The aim is to steal sensitive data like credit card numbers and login information. It’s the most common type of cyber attack. You can help protect yourself through education or a technology solution that filters malicious emails.</p>
       </div>
     </div>
   </div>
